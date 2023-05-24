@@ -1,3 +1,4 @@
+
 public class Test {
     public static void main(String[] args) {
         System.out.println("Hello from my project");
@@ -6,5 +7,7 @@ public class Test {
         System.out.println("------------------------");
 
         System.out.println("Another new line");
+
+        System.out.println(aggiunta da iridium)
     }
 }
